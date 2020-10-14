@@ -1,5 +1,5 @@
 # kottans-frontend
-Repository for completing the frontend course from Kottan
+Repository for Kottans' frontend course 
 
 # Git, GitHub, git flow
 
