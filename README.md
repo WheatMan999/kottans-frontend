@@ -19,7 +19,7 @@ Refreshed knowledge on Linux terminal basic commands. I use them on daily basis,
 
 Will definitely use the Linux terminal in the future. Mostly, it’s much faster than GUI and gives more flexibility. Not to mention how people are surprised to see I’m doing something in the bash and saying: “Are you a hacker?”.
 
-![Linux Course Completion](https://github.com/WheatMan999/kottans-frontend/blob/main/task-linux-cli/Linux_survival.png?raw=true)
+![Linux Course Completion](https://github.com/WheatMan999/kottans-frontend/blob/main/task_linux_cli/Linux_survival.png?raw=true)
 
 ### HTTP: The Protocol Every Web Developer Must Know - Part 1 and Part 2
 
