@@ -1,7 +1,7 @@
 # kottans-frontend
 Repository for Kottans' frontend course 
 
-# Git, GitHub, git flow
+## Git, GitHub, git flow
 
 - Refreshed knowledge on basic git commands/git flow/branches and merging
 - Learned about git request (haven’t thought about it previously))
@@ -10,3 +10,26 @@ Repository for Kottans' frontend course
 
 
 ![Git Course Completion](/git_collab/git_collab.png?raw=true)
+
+## Linux CLI, and HTTP
+
+### Linux Survival
+
+Refreshed knowledge on Linux terminal basic commands. I use them on daily basis, so didn’t find something groundbreaking. but I was really surprised to know “ps aux | grep name” will show the process of grep itself. Was wondering for the long time, why grep shows me two processes, instead of one.
+
+Will definitely use the Linux terminal in the future. Mostly, it’s much faster than GUI and gives more flexibility. Not to mention how people are surprised to see I’m doing something in the bash and saying: “Are you a hacker?”.
+
+![Linux Course Completion](https://github.com/WheatMan999/kottans-frontend/blob/main/task-linux-cli/Linux_survival.png?raw=true)
+
+### HTTP: The Protocol Every Web Developer Must Know - Part 1 and Part 2
+
+- Refreshed knowledge on URLs, HTTP requests/response.
+- Get acquitted with new for me verbs/status codes and message formats.
+- Discovered tools for viewing HTTP traffic and some basics of using HTTP with Node, Ruby on Rails and jQuery Ajax
+- Discovered the basics of identification and authentication processes via HTTP, including HTTPS. Learnt basic principles of certificates, HTTP Caching, cache processing and controlling.
+
+I do believe the understanding of the HTTP basics will help me to build more resilient and user-friendly websites/apps. Moreover, I do think it will help me in the building of server parts, not just a frontend.
+
+
+
+
