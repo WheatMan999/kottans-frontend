@@ -31,5 +31,17 @@ Will definitely use the Linux terminal in the future. Mostly, it’s much faster
 I do believe the understanding of the HTTP basics will help me to build more resilient and user-friendly websites/apps. Moreover, I do think it will help me in the building of server parts, not just a frontend.
 
 
+## Git Collaboration
+
+- Learnt how to synchronize local and remote repos and deepened knowledge on branching
+- There was quite a lot of new things to me, but I will single out the operations with arguments for fetch and push
+- Also, “source of nothing” just blown my mind but think it’ll need time and practice to get used to this technique
+- Will use most of the commands from this course for sure, including forking, merging, synchronizing with remotes, pushing/pulling commits.
+
+![GitHub &Collaboration](https://github.com/WheatMan999/kottans-frontend/blob/main/task_git_collaboration/Git_collaboration.png?raw=true)
+
+![Git Main](https://github.com/WheatMan999/kottans-frontend/blob/main/task_git_collaboration/git_collab_1.png?raw=true)
+
+![Git Remote](https://github.com/WheatMan999/kottans-frontend/blob/main/task_git_collaboration/git_collab_2.png?raw=true)
 
 
