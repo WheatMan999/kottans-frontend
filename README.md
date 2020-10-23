@@ -45,3 +45,13 @@ I do believe the understanding of the HTTP basics will help me to build more res
 ![Git Remote](https://github.com/WheatMan999/kottans-frontend/blob/main/task_git_collaboration/git_collab_2.png?raw=true)
 
 
+
+## Intro to HTML and CSS
+
+Learnt basic syntax of HTML and CSS, including markdown, tags, selectors, units and tree-like structures. The most amazing thing for me was the semantic HTML. I haven’t thought about the websites’ structure in such a way and that the HTML could be more “human-friendly”. Don’t know why but reckoned the python language. Like it also provides the power of the easy understanding of the code thanks to its similarities to natural language. And another amazing thing was the box model. The idea that everything on the websites is just a box has never crossed my mind! 
+
+Do plan to use all the basics, covered in courses as don’t see the way to build something on the web without them. And yes, I definitely will try to use semantic HTML whenever I can, while the “box idea” should help me to style it all.
+
+![CodeCSS](https://github.com/WheatMan999/kottans-frontend/blob/main/task_html_css_intro/Code_academy_CSS.png?raw=true)
+![CodeHTML](https://github.com/WheatMan999/kottans-frontend/blob/main/task_html_css_intro/Code_academy_HTML.png?raw=true)
+![Udacity](https://github.com/WheatMan999/kottans-frontend/blob/main/task_html_css_intro/HTML_CSS_Udacity.png?raw=true)
